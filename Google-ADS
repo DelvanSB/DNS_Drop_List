@@ -16,5 +16,5 @@
 ||googletagservices.com^
 ||googletagmanager.com^
 ||googleadservices.com^
-.*googleadservices.com.*
+*googleadservices.com.*
 !
