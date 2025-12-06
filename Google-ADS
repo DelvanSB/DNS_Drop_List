@@ -18,4 +18,5 @@
 ||googleadservices.com^
 *googleadservices.com.*
 ||googleadservices.com.*
+*.googleadservices.com.*
 !
